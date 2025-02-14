@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to My Profile!
+
+Hi, I'm **Miruni Joel** 👋
+
+- 🔭 I’m currently working on School Management System
+- 🌱 I’m currently learning Django and Machine Learning
+- 👯 I’m looking to collaborate on Open Source projects
+- 📫 How to reach me: [mirunijoel@gmail.com](mailto:mirunijoel.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to code and travel the world!
