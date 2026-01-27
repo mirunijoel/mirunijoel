@@ -6,7 +6,7 @@ Building scalable production systems across **fintech**, **healthcare**, and **m
 
 **📍 Based in Nairobi, Kenya** | **💼 Engineering Lead **
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.mirunijoel.co.ke-blue?style=flat-square&logo=google-chrome)](https://www.mirunijoel.co.ke)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joel--miruni--portfolio.vercel.app-blue?style=flat-square&logo=google-chrome)](https://joel-miruni-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joel-miruni-2b641614a/)
 [![Email](https://img.shields.io/badge/Email-mirunijoel%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mirunijoel@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@MiruniJoel-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MiruniJoel)
@@ -109,7 +109,7 @@ Mission-critical system processing 10k+ daily transactions for enterprise client
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirunijoel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirunijoel&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="165">
+  <img src="https://streak-stats.demolab.com/?user=mirunijoel&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@ I'm always interested in discussing:
 
 **Reach out:**
 - 💼 LinkedIn: [joel-miruni-2b641614a](https://www.linkedin.com/in/joel-miruni-2b641614a/)
-- 🌐 Portfolio: [www.mirunijoel.co.ke](https://www.mirunijoel.co.ke](https://joel-miruni-portfolio.vercel.app/))
+- 🌐 Portfolio: [joel-miruni-portfolio.vercel.app](https://joel-miruni-portfolio.vercel.app/)
 - 📧 Email: mirunijoel@gmail.com
 - 🐦 Twitter: [@MiruniJoel](https://twitter.com/MiruniJoel)
 - 📱 Phone: +254 701 189 905
