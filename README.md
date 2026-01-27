@@ -166,7 +166,7 @@ I'm always interested in discussing:
 
 **Reach out:**
 - 💼 LinkedIn: [joel-miruni-2b641614a](https://www.linkedin.com/in/joel-miruni-2b641614a/)
-- 🌐 Portfolio: [www.mirunijoel.co.ke](https://www.mirunijoel.co.ke)
+- 🌐 Portfolio: [www.mirunijoel.co.ke](https://www.mirunijoel.co.ke](https://joel-miruni-portfolio.vercel.app/))
 - 📧 Email: mirunijoel@gmail.com
 - 🐦 Twitter: [@MiruniJoel](https://twitter.com/MiruniJoel)
 - 📱 Phone: +254 701 189 905
