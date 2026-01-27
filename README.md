@@ -4,7 +4,7 @@
 
 Building scalable production systems across **fintech**, **healthcare**, and **mobility platforms** in East Africa. Currently leading engineering teams and architecting cloud-native solutions.
 
-**📍 Based in Nairobi, Kenya** | **💼 Engineering Lead @ Clutch Foundry**
+**📍 Based in Nairobi, Kenya** | **💼 Engineering Lead **
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.mirunijoel.co.ke-blue?style=flat-square&logo=google-chrome)](https://www.mirunijoel.co.ke)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joel-miruni-2b641614a/)
