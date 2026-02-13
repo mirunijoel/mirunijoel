@@ -108,12 +108,12 @@ Mission-critical system processing 10k+ daily transactions for enterprise client
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirunijoel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165">
-  <img src="https://streak-stats.demolab.com/?user=mirunijoel&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirunijoel&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=mirunijoel&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirunijoel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirunijoel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -132,9 +132,9 @@ Mission-critical system processing 10k+ daily transactions for enterprise client
 
 ```python
 currently_learning = {
-    "advanced": ["Machine Learning", "AI Integration", "Advanced Django"],
-    "exploring": ["Kubernetes Orchestration", "Microservices Patterns"],
-    "mastering": ["System Design", "Cloud Architecture", "Performance Optimization"]
+    "advanced": ["Generative AI", "Machine Learning", "Advanced Django"],
+    "exploring": ["AWS Cloud Architecture", "Kubernetes Orchestration"],
+    "mastering": ["System Design", "Performance Optimization"]
 }
 ```
 
