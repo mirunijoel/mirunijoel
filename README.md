@@ -1,10 +1,10 @@
 # Hi, I'm Joel Miruni 👋
 
-## 🚀 Senior Full-Stack Engineer | 7+ Years Experience
+## 🚀 Senior Full-Stack Engineer | 7+ Years Experience + AI
 
 Building scalable production systems across **fintech**, **healthcare**, and **mobility platforms** in East Africa. Currently leading engineering teams and architecting cloud-native solutions.
 
-**📍 Based in Nairobi, Kenya** | **💼 Engineering Lead **
+**📍 Based in Nairobi, Kenya** | **💼 Engineering Lead**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-joel--miruni--portfolio.vercel.app-blue?style=flat-square&logo=google-chrome)](https://joel-miruni-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joel-miruni-2b641614a/)
@@ -108,12 +108,12 @@ Mission-critical system processing 10k+ daily transactions for enterprise client
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirunijoel&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mirunijoel&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170" />
   <img src="https://streak-stats.demolab.com/?user=mirunijoel&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirunijoel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mirunijoel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
