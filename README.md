@@ -6,6 +6,8 @@ Building scalable production systems across **fintech**, **healthcare**, and **m
 
 **📍 Based in Nairobi, Kenya** | **💼 Engineering Lead**
 
+**🔧 Currently shipping:** [**Spurtlinks**](https://github.com/spurtlinks-platform/spurtlinks-platform) (social/dating + wallet platform - React/TS web, Express API, monorepo), **Cktecksolutions**, and **Jibu AI** -product engineering, architecture, and team delivery.
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-joel--miruni--portfolio.vercel.app-blue?style=flat-square&logo=google-chrome)](https://joel-miruni-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joel-miruni-2b641614a/)
 [![Email](https://img.shields.io/badge/Email-mirunijoel%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mirunijoel@gmail.com)
@@ -20,6 +22,21 @@ Building scalable production systems across **fintech**, **healthcare**, and **m
 - 👥 **Lead engineering teams** to deliver high-impact features while maintaining code quality
 - 📊 **Optimize databases** achieving 40-60% performance improvements
 - 🚀 **Ship production systems** serving thousands of users across East Africa
+- ⚛️ **Own full-stack product surfaces** — TypeScript/React (Vite) SPAs, auth-gated shells, maps & geolocation UX, API contracts handoff to backend, GitHub org workflow & PR quality
+
+---
+
+## ✨ Skills sharpened on recent platform work *(Spurtlinks & adjacent)*
+
+- **Monorepo delivery** — npm workspaces, `apps/web` + `apps/api`, shared conventions, feature branches & org-based PRs  
+- **Modern React** — TypeScript, React Router, protected routes, context-driven auth UX, responsive/mobile-first layouts  
+- **Product-grade web UX** — multi-tab shells, discover/explore flows, mock-to-API evolution, design–dev parity with Figma  
+- **Maps & location** — Leaflet, local-first map UX (neighborhood vs world view), browser geolocation, reverse-geocoding patterns, documenting **`GET /me/nearby-users`**-style contracts for backend  
+- **API collaboration** — handoff docs (`docs/api/*`), typed `fetch` layers, graceful fallbacks when endpoints are still landing  
+
+*(Keep this section or merge bullets into “What I Do” / Featured Projects if you prefer a shorter README.)*
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -36,6 +53,7 @@ Building scalable production systems across **fintech**, **healthcare**, and **m
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -58,6 +76,16 @@ Building scalable production systems across **fintech**, **healthcare**, and **m
 ---
 
 ## 🎯 Featured Projects
+
+### 🌐 Spurtlinks Platform — Social / discovery + SpotPay *(in progress)*
+> *React • TypeScript • Vite • Express • PostgreSQL • Redis (monorepo)*
+
+End-to-end platform work: authenticated web shell, discover / explore / nearby map UX, chat & notifications surfaces (UI + API handoff docs), wallet shell — aligning product UI to system design and phased backend delivery.
+
+**Highlights:**
+- 🔐 Auth flows & protected app shell; org Git workflow & PRs to `main`
+- 🗺️ Nearby: local-first map, geolocation + area labelling patterns; backend contract doc for sorted nearby users
+- 📱 Mobile-first layouts, bottom navigation, mock-to-live API paths
 
 ### 🏥 [MediBridge](https://medibridge.co.ke) - Healthcare Coordination Platform
 > *Django • React • PostgreSQL • AWS*
@@ -134,7 +162,12 @@ Mission-critical system processing 10k+ daily transactions for enterprise client
 currently_learning = {
     "advanced": ["Generative AI", "Machine Learning", "Advanced Django"],
     "exploring": ["AWS Cloud Architecture", "Kubernetes Orchestration"],
-    "mastering": ["System Design", "Performance Optimization"]
+    "mastering": ["System Design", "Performance Optimization"],
+    "shipping_now": [
+        "TypeScript/React product surfaces at scale",
+        "Location-aware UX & API contracts for discovery feeds",
+        "Monorepo delivery with org-wide review culture",
+    ],
 }
 ```
 
